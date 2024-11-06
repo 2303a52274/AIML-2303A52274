@@ -7,3 +7,4 @@ week 6 https://github.com/2303a52274/AIML-2303A52274/blob/main/AIML%20ASS_6.ipyn
 WEEK 7 https://github.com/2303a52274/AIML-2303A52274/blob/main/AIML%20ASS_7.ipynb
 WEEK 8 https://github.com/2303a52274/AIML-2303A52274/blob/main/AIML%208.ipynb
 WEEK 9 https://github.com/2303a52274/AIML-2303A52274/blob/main/AIML%20ASS_9.ipynb
+WEEK 10 https://github.com/2303a52274/AIML-2303A52274/blob/main/AIML%20ASS_10.ipynb

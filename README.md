@@ -35,3 +35,8 @@ https://github.com/2303a52274/AIML-2303A52274/blob/main/AIML%20ASS_9.ipynb
 
 WEEK 10
 https://github.com/2303a52274/AIML-2303A52274/blob/main/AIML%20ASS_10.ipynb
+
+LAB EXAM
+https://github.com/2303a52274/AIML-2303A52274/blob/main/2303A52274_36_15.ipynb
+
+
